@@ -1,10 +1,7 @@
 # Site settings
-title: Community Life Engagement 
+title: Community Life Engagement
 email: Jaimie.Timmons@umb.edu
-description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+description: Community Life Engagement refers to the ways people with IDD access and participate in their communities outside of employment, and the supports that enable such engagement. This can include volunteer work; postsecondary, adult, or continuing education; accessing community facilities such as the library, gym, or recreation center; and any activities that people with and without disabilities do in their spare time. 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
